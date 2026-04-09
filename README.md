@@ -115,9 +115,9 @@ Distribuido bajo la licencia [MIT](https://choosealicense.com/licenses/mit/). Co
 
 ## 📬 Contacto
 
-- 💼 GitHub: [@tu-usuario](https://github.com/tu-usuario)
-- 📧 Email: tu-email@ejemplo.com
-- 🌐 Web: [tuweb.dev](https://tuweb.dev)
+- 💼 GitHub: (https://aurenox-global.github.io/aurenox-ai/)
+
+
 
 ---
 ⭐ Si te fue útil, ¡dale una estrella al repositorio! `PromptArchitect` está hecho para desarrolladores que quieren ir más rápido, sin sacrificar calidad arquitectónica.
